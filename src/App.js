@@ -2,6 +2,8 @@ import { useState, useEffect } from 'react'
 import Header from './components/Header'
 import Tasks from './components/Tasks'
 import AddTask from './components/AddTask'
+import './App.css';
+
 
 const App = () => {
   const [tasks, setTasks] = useState([])
@@ -70,6 +72,7 @@ const App = () => {
 
 
   return (
+
     < div className="container" >
       <Header title="Zoom Meeting Manager" />
       <AddTask onAdd={addTask} />

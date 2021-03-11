@@ -1,14 +1,8 @@
 {
   "tasks": [
     {
-      "title": "CS 185 Louie's Office",
-      "day": "2021-03-05T09:00",
-      "important": true,
-      "id": 1
-    },
-    {
-      "title": "Loue Task ",
-      "day": "03-04-2022",
+      "title": "my meeting ",
+      "day": "03/22/2020",
       "important": true,
       "id": 2
     }
